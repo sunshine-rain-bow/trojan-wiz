@@ -8,40 +8,14 @@
 
 ## 更新日志：
 - 2019-4-30 2.1beta发布，升级trojan到1.12.1，添加删除trojan功能
-
-
-
-## 国外VPS服务器推荐:
-- 搬瓦工：http://bit.ly/2FHfp4m
-- 数字海洋：http://bit.ly/2uCIffL
-- hostdare：http://bit.ly/2Oyo8IO
-- alpharacks特价VPS（5.99$-支持支付宝）http://bit.ly/2FTqBK1
-# pnzhost 限时优惠活动（9$起,使用优惠码半价支持微信和支付宝）：
-- 套餐1：（KVM VPS | 10GB HDD | 512MB RAM | 1TB 宽带 | $9/年） [购买链接](http://bit.ly/2HQRy4m)
-- 套餐2：（KVM VPS | 20GB HDD | 1024MB RAM | 2TB宽带| $14/年） [购买链接](http://bit.ly/2HWjcxh)
-- 套餐3：（KVM VPS | 30GB HDD | 2048MB RAM | 3TB宽带| $22/年） [购买链接](http://bit.ly/2FOzsOt)
-
-# hostmybytes限时优惠（7.35美元起）
-- 套餐1：http://bit.ly/2I9UfgK
-- 套餐2：http://bit.ly/2HOwUC9
-- 套餐3：http://bit.ly/2YGvSNz
 ---
 # 安装命令：
->正式版脚本： wget -N --no-check-certificate https://raw.githubusercontent.com/mark-hans/trojan-wiz/master/ins.sh && chmod +x ins.sh && sudo bash  ins.sh
+>正式版脚本： wget -N --no-check-certificate https://raw.githubusercontent.com/sunshine-rain-bow/trojan-wiz/master/ins.sh && chmod +x ins.sh && sudo bash  ins.sh
 
->beta版本：wget -N --no-check-certificate https://raw.githubusercontent.com/mark-hans/trojan-wiz/master/ins_beta.sh && chmod +x ins_beta.sh && sudo bash  ins_beta.sh
+>beta版本：wget -N --no-check-certificate https://raw.githubusercontent.com/sunshine-rain-bow/trojan-wiz/master/ins_beta.sh && chmod +x ins_beta.sh && sudo bash  ins_beta.sh
 ---
 支持的系统：
 - ubuntu 16.04+
 - debian 9(理论上应该支持debian 8)
 - centos 7+
 - RHEL 7+
-
-
-# 给作者一些改进和升级这个脚本的动力：
-![Image text](https://raw.githubusercontent.com/mark-hans/trojan-wiz/master/images/1.jpg)
-![Image text](https://raw.githubusercontent.com/mark-hans/trojan-wiz/master/images/2.jpg)
-![Image text](https://raw.githubusercontent.com/mark-hans/trojan-wiz/master/images/3.jpg)
-
-# 感谢下列网友的打赏，你们打赏是我更新的动力。如果有可能大家可以扫这个红包码，或者点击购买服务器，让脚本作者得到相应的收入，以便来改进和升级。
-＊青、CHEN、*江(zerozero123)
