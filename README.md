@@ -10,9 +10,9 @@
 - 2019-4-30 2.1beta发布，升级trojan到1.12.1，添加删除trojan功能
 ---
 # 安装命令：
->正式版脚本： wget -N --no-check-certificate https://raw.githubusercontent.com/sunshine-rain-bow/trojan-wiz/master/ins.sh && chmod +x ins.sh && sudo bash  ins.sh
+>正式版脚本： wget -N --no-check-certificate https://raw.githubusercontent.com/sunshine-rain-bow/trojan-wiz/master/ins.sh && chmod +x ins.sh &&  bash  ins.sh
 
->beta版本：wget -N --no-check-certificate https://raw.githubusercontent.com/sunshine-rain-bow/trojan-wiz/master/ins_beta.sh && chmod +x ins_beta.sh && sudo bash  ins_beta.sh
+>beta版本：wget -N --no-check-certificate https://raw.githubusercontent.com/sunshine-rain-bow/trojan-wiz/master/ins_beta.sh && chmod +x ins_beta.sh &&  bash  ins_beta.sh
 ---
 支持的系统：
 - ubuntu 16.04+
